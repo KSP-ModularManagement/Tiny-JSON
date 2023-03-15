@@ -1,5 +1,7 @@
 # Tiny-JSON /L :: Change Log
 
+* 2023-0315: 1.3.0.1 (LisiasT) for KSP >= 1.2.0
+	+ Initial version for KSPe (and KSP)
 * 2018-1022: 1.3.0.0 (Robert Gerring)
 	+ No change log provided.
 * 2018-1021: 1.2.0.0 (Robert Gerring)
