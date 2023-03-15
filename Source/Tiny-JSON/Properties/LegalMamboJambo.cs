@@ -12,18 +12,13 @@
 
 */
 using System;
-namespace Tiny {
-
-	[AttributeUsage(AttributeTargets.Field | AttributeTargets.Property, Inherited = false, AllowMultiple = false)]
-	public class JsonPropertyAttribute : Attribute {
-		public string Name { get; private set; }
-
-		public JsonPropertyAttribute(string name) {
-			Name = name;
-		}
-	}
-
-	[AttributeUsage(AttributeTargets.Class, Inherited = false, AllowMultiple = false)]
-	public class MatchSnakeCaseAttribute : Attribute {
+namespace Tiny.JSON
+{
+	public static class LegalMamboJambo
+	{
+		public const string Company = "L Aerospace KSP Division";
+		public const string Product = "Tiny JSON /L";
+		public const string Copyright = "©2023 Lisias; ©2015-2028 Robert Gering";
+		public const string Trademark = "";
 	}
 }
