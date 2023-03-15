@@ -1,7 +1,28 @@
-# Tiny-JSON
-C# JSON serializer, that works fine with Unity3D
+# Tiny-JSON /L
 
-# encoding
+C# JSON serializer, that works fine with Unity3D.
+
+Fork by Lisias.
+
+
+## In a Hurry
+
+* [Latest Release](https://github.com/net-lisias-ksp/Tiny-JSON/releases)
+	+ [Binaries](https://github.com/net-lisias-ksp/Tiny-JSON/tree/Archive)
+* [Source](https://github.com/net-lisias-ksp/Tiny-JSON)
+* Documentation
+	+ [Project's README](https://github.com/net-lisias-ksp/Tiny-JSON/blob/master/README.md)
+	+ [Change Log](./CHANGE_LOG.md)
+		+ [Known Issues](./KNOWN_ISSUES.md)
+
+
+## Description
+
+Tiny-JSON is a pretty small and practical JSON (de)serializer for C#, working fine under C# 3.5 and Unity Engine.
+
+This fork aims to customize and/or tailor it to fit [KSPe](https://github.com/net-lisias-ksp/KSPe) needs.
+
+### encoding
 
 ```csharp
 // Encode a Dictionary
@@ -17,7 +38,7 @@ var v2 = new Vector2(3, 5);
 string json = v2.Encode();
 ```
 
-# decoding
+### decoding
 
   
 ```csharp
@@ -69,4 +90,16 @@ byte[] result = request.downloadHandler.data;
 string json = System.Text.Encoding.Default.GetString(result);
 return json.Decode<Session>();
 ```
+
+
+## License:
+
+Licensed under the [MIT (Expat)](https://opensource.org/license/mit/).
+
+
+## UPSTREAM
+
+* [Robert Gering](https://github.com/gering/) ROOT
+	+ [Github](https://github.com/gering/Tiny-JSON)
+
 
