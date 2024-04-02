@@ -7,11 +7,11 @@ Fork by Lisias.
 
 ## In a Hurry
 
-* [Latest Release](https://github.com/net-lisias-ksp/Tiny-JSON/releases)
-	+ [Binaries](https://github.com/net-lisias-ksp/Tiny-JSON/tree/Archive)
-* [Source](https://github.com/net-lisias-ksp/Tiny-JSON)
+* [Latest Release](https://github.com/KSP-ModularManagement/Tiny-JSON/releases)
+	+ [Binaries](https://github.com/KSP-ModularManagement/Tiny-JSON/tree/Archive)
+* [Source](https://github.com/KSP-ModularManagement/Tiny-JSON)
 * Documentation
-	+ [Project's README](https://github.com/net-lisias-ksp/Tiny-JSON/blob/master/README.md)
+	+ [Project's README](https://github.com/KSP-ModularManagement/Tiny-JSON/blob/master/README.md)
 	+ [Change Log](./CHANGE_LOG.md)
 		+ [Known Issues](./KNOWN_ISSUES.md)
 
@@ -20,7 +20,7 @@ Fork by Lisias.
 
 Tiny-JSON is a pretty small and practical JSON (de)serializer for C#, working fine under C# 3.5 and Unity Engine.
 
-This fork aims to customize and/or tailor it to fit [KSPe](https://github.com/net-lisias-ksp/KSPe) needs.
+This fork aims to customize and/or tailor it to fit [KSPe](https://github.com/KSP-ModularManagement/KSPe) needs.
 
 ### encoding
 

@@ -1,9 +1,9 @@
 {
 	"NAME"		: "Tiny-JSON /L",
-	"URL"		: "https://raw.githubusercontent.com/net-lisias-ksp/Tiny-JSON/master/TinyJSON.version",
-	"DOWNLOAD"	: "https://github.com/net-lisias-ksp/Tiny-JSON/releases",
-	"CHANGE_LOG"	: "https://raw.githubusercontent.com/net-lisias-ksp/Tiny-JSON/master/CHANGE_LOG.md",
-	"CHANGE_LOG_URL": "https://raw.githubusercontent.com/net-lisias-ksp/Tiny-JSON/master/CHANGES.md",
+	"URL"		: "https://raw.githubusercontent.com/KSP-ModularManagement/Tiny-JSON/master/TinyJSON.version",
+	"DOWNLOAD"	: "https://github.com/KSP-ModularManagement/Tiny-JSON/releases",
+	"CHANGE_LOG"	: "https://raw.githubusercontent.com/KSP-ModularManagement/Tiny-JSON/master/CHANGE_LOG.md",
+	"CHANGE_LOG_URL": "https://raw.githubusercontent.com/KSP-ModularManagement/Tiny-JSON/master/CHANGES.md",
 	"VERSION":{
 		"MAJOR":1,
 		"MINOR":3,
